@@ -8,4 +8,4 @@ jobs:
           organization: "serinkanasci"
           token:
 script:
-  - nvm clean verify sonar:sonar -Pcoverage -Dsonar
+  - nvm clean verify
